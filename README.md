@@ -19,13 +19,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
-    <img src="Title.jpg" alt="Time Prison">
+    <img src="Title.jpg" alt="Food Fight">
 </div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Time Prison</h3>
+  <h2 align="center">Food-Fight</h2>
   <p align="justify">
     A 2D mystical platformer where players are trying to escape a labyrinth. The game's physics are intentionally deceptive, requiring players to fail and learn from their mistakes to progress through the levels. The level design focuses on teaching players through frustration, with obstacles designed to deceive and surprise players with increasing difficulty.
     <br />
